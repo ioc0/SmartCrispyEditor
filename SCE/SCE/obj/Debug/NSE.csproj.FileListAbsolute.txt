@@ -1,0 +1,10 @@
+c:\users\mortt\documents\visual studio 2015\Projects\SCE\SCE\bin\Debug\ScintillaNET.dll
+c:\users\mortt\documents\visual studio 2015\Projects\SCE\SCE\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+c:\users\mortt\documents\visual studio 2015\Projects\SCE\SCE\obj\Debug\SCE.MainForm.resources
+c:\users\mortt\documents\visual studio 2015\Projects\SCE\SCE\obj\Debug\SCE.Properties.Resources.resources
+c:\users\mortt\documents\visual studio 2015\Projects\SCE\SCE\obj\Debug\NSE.csproj.GenerateResource.Cache
+c:\users\mortt\documents\visual studio 2015\Projects\SCE\SCE\bin\Debug\SmartCripyEditor.exe.config
+c:\users\mortt\documents\visual studio 2015\Projects\SCE\SCE\bin\Debug\SmartCripyEditor.exe
+c:\users\mortt\documents\visual studio 2015\Projects\SCE\SCE\bin\Debug\SmartCripyEditor.pdb
+c:\users\mortt\documents\visual studio 2015\Projects\SCE\SCE\obj\Debug\SmartCripyEditor.exe
+c:\users\mortt\documents\visual studio 2015\Projects\SCE\SCE\obj\Debug\SmartCripyEditor.pdb

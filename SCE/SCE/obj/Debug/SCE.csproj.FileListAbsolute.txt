@@ -1,0 +1,11 @@
+c:\users\mortt\documents\visual studio 2015\Projects\SCE\SCE\bin\Debug\SmartEditor.exe.config
+c:\users\mortt\documents\visual studio 2015\Projects\SCE\SCE\obj\Debug\SCE.csprojResolveAssemblyReference.cache
+c:\users\mortt\documents\visual studio 2015\Projects\SCE\SCE\obj\Debug\SCE.Properties.Resources.resources
+c:\users\mortt\documents\visual studio 2015\Projects\SCE\SCE\obj\Debug\SCE.csproj.GenerateResource.Cache
+c:\users\mortt\documents\visual studio 2015\Projects\SCE\SCE\bin\Debug\SmartEditor.exe
+c:\users\mortt\documents\visual studio 2015\Projects\SCE\SCE\bin\Debug\SmartEditor.pdb
+c:\users\mortt\documents\visual studio 2015\Projects\SCE\SCE\bin\Debug\ScintillaNET.dll
+c:\users\mortt\documents\visual studio 2015\Projects\SCE\SCE\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+c:\users\mortt\documents\visual studio 2015\Projects\SCE\SCE\obj\Debug\SmartEditor.exe
+c:\users\mortt\documents\visual studio 2015\Projects\SCE\SCE\obj\Debug\SmartEditor.pdb
+c:\users\mortt\documents\visual studio 2015\Projects\SCE\SCE\obj\Debug\SCE.MainForm.resources
